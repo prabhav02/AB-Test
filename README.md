@@ -10,12 +10,4 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 - Matplotlib
 - Statsmodels
 
-## Installation
-To get the Jupyter Notebook running, execute the following in the command line and select `ab-test.ipynb` from the Jupyter Notebook dashboard. The conda environment setup is optional; I have provided the base environment in `base.yaml`.
-```
-$ git clone https://github.com/evanchen13/ab-test.git
-$ cd ab-test
-$ conda env create -f base.yaml
-$ jupyter notebook
-```
 
